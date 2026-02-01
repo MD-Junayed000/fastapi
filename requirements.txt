@@ -1,0 +1,6 @@
+brypt
+PyJWT
+python-decouple
+fastapi[standard] 
+sqlalchemy 
+psycopg2-binary
